@@ -28,7 +28,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I work as a scientific researcher at FH Aachen with background in engineering and lab instrumentation, working as a group leader for AstroBioLab in [TRIPLE](https://triple-project.net/) project. AstroBioLab is a multimodal robust surface field instrument to detect biosignatures in subglacial water - a test platform for the kind of access mission that icy moons like Europa and Enceladus will eventually require. My work spans from mechanical design, wet-lab work, data analysis and polar field deployment.
+I work as a scientific researcher at FH Aachen with a background in engineering and lab instrumentation, working as a group leader for AstroBioLab in [TRIPLE](https://triple-project.net/) project. AstroBioLab is a multimodal robust surface field instrument to detect biosignatures in subglacial water - a test platform for the kind of access mission that icy moons like Europa and Enceladus will eventually require. My work spans from mechanical design, wet-lab work, data analysis and polar field deployment.
 
 ### Life-detection instrumentation
 
@@ -40,5 +40,5 @@ Beneath the ice shells of Europa and Enceladus there is liquid water, and with i
 
 ### Field deployment and planetary protection
 
-Antarctica's subglacial lakes is the closest analogue we have to an ice-covered ocean, which makes polar fieldwork the only serious test of this hardware. Preparing a deployment to Antarctica means solving problems that never appear in a lab: cold, logistics, power, no second attempt. It also means treating contamination as a design constraint - the cleanliness standards that protect a subglacial lake from us are the same ones that will protect Enceladus.
+Antarctica's subglacial lakes are the closest analogues we have to an ice-covered ocean, which makes polar fieldwork the only serious test of this hardware. Preparing a deployment to Antarctica means solving problems that never appear in a lab: cold, logistics, power, no second attempt. It also means treating contamination as a design constraint - the cleanliness standards that protect a subglacial lake from us are the same ones that will protect Enceladus.
 
