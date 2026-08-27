@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://atakantepecik.github.io/sitemap.xml
+Sitemap: https://atakantepecik.com/sitemap.xml
