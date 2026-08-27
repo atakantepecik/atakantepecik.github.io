@@ -28,7 +28,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I work as a scientific researcher at FH Aachen with background in engineering and lab instrumentation, working as a group leader for AstroBioLab in TRIPLE (triple-project.net) project. AstroBioLab is a multimodal robust surface field instrument to detect biosignatures in subglacial water - a test platform for the kind of access mission that icy moons like Europa and Enceladus will eventually require. My work expands from mechanical design to wet-lab work to data analysis through to polar field deployment.
+I work as a scientific researcher at FH Aachen with background in engineering and lab instrumentation, working as a group leader for AstroBioLab in [TRIPLE](https://triple-project.net/) project. AstroBioLab is a multimodal robust surface field instrument to detect biosignatures in subglacial water - a test platform for the kind of access mission that icy moons like Europa and Enceladus will eventually require. My work spans from mechanical design, wet-lab work, data analysis and polar field deployment.
 
 ### Life-detection instrumentation
 
@@ -36,9 +36,9 @@ The AstroBioLab is a compact laboratory built to look for signs of life in water
 
 ### Habitability of ocean worlds
 
-Beneath the ice shells of Europa and Enceladus there is liquid water, and with its chemistry that could support life. Our work on habitability assessment asks what a mission would have to measure to make that judgement, and what conclusions those measurements would support. This is where instrumentation meets science: requirements written at the beginning of the project determine which questions are still answerable after years, when the probe is already under the ice.
+Beneath the ice shells of Europa and Enceladus there is liquid water, and with it, chemistry that could support life. Our work on habitability assessment asks what a mission would have to measure to make that judgement, and what conclusions those measurements would support. This is where instrumentation meets science: requirements written at the beginning of the project determine which questions are still answerable after years, when the probe is already under the ice.
 
 ### Field deployment and planetary protection
 
-Antarctica is the closest analogue we have to an ice-covered ocean, which makes polar fieldwork the only serious test of this hardware. Preparing a deployment to Antarctica means solving problems that never appear in a lab: cold, logistics, power, no second attempt. It also means treating contamination as a design constraint, the cleanliness standards that protect a subglacial lake from us are the same ones that will protect Enceladus.
+Antarctica's subglacial lakes is the closest analogue we have to an ice-covered ocean, which makes polar fieldwork the only serious test of this hardware. Preparing a deployment to Antarctica means solving problems that never appear in a lab: cold, logistics, power, no second attempt. It also means treating contamination as a design constraint - the cleanliness standards that protect a subglacial lake from us are the same ones that will protect Enceladus.
 
