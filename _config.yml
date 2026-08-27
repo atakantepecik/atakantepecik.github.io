@@ -7,13 +7,13 @@ first_name: Atakan
 middle_name:
 last_name: Tepecik
 contact_note: >
-  I prefer e-mails but don't hesistate to use LinkedIn too!
+  I prefer e-mails but don't hesitate to use LinkedIn too!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Scientific researcher at FH Aachen developing instrumentation for life detection in extreme environments.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+# Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: astrobiology, astrobiophysics, molecular biology, engineering # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🪐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
