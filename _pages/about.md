@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[#](https://www.fh-aachen.de/forschung/institute/ifb/)'>FH Aachen University of Applied Sciences, Institute of Bioengineering</a>.
+subtitle: <a href='(https://www.fh-aachen.de/forschung/institute/ifb/)'>FH Aachen University of Applied Sciences, Institute of Bioengineering</a>.
 
 
 profile:
