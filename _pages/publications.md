@@ -6,6 +6,38 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
+ @article{Tepecik_2026, title={Concept and development of a multimodal bioanalytic laboratory for the in-situ exploration of icy ocean worlds}, volume={13}, ISSN={2296-987X}, url={http://dx.doi.org/10.3389/fspas.2026.1894853}, DOI={10.3389/fspas.2026.1894853}, journal={Frontiers in Astronomy and Space Sciences}, publisher={Frontiers Media SA}, author={Tepecik, Atakan and Urbach, Marc and Ohlig, Paul and Aboudrare, Youssef and Aghababaei, Aryan and Blok, Jacqueline and Ciecko, Julia and Ghasemi Sichani, Amirhossein and Kamp, Isabelle and Mouhanna, Judy and Tafelmeier, Manuel and van Linn, Daria and Digel, Ilya}, year={2026}, month=Aug }
+,
+@misc{Atakan_Tepecik_224788079,
+title={Final integration and testing of the TRIPLE AstroBioLab: a hybrid analytical suite for life detection},
+journal={COSPAR Scientific Assembly},
+author={Atakan Tepecik},
+year={2026}
+},
+ @inbook{Akimbekov_2025, title={Combating Bacterial Infections with Vitamin D-Induced Antimicrobial Peptides}, ISBN={9783032043573}, ISSN={2214-8019}, url={http://dx.doi.org/10.1007/978-3-032-04357-3_3}, DOI={10.1007/978-3-032-04357-3_3}, booktitle={Vitamin D Function}, publisher={Springer Nature Switzerland}, author={Akimbekov, Nuraly S. and Digel, Ilya and Tastambek, Kuanysh and Rodriguez-Raecke, Rea and Tepecik, Atakan and Kistaubayeva, Aida S. and Zha, Jian and Razzaque, Mohammed S.}, year={2025}, month=Nov, pages={13–31} }
+,
+@conference{Atakan_Tepecik_207966967,
+title={In Situ Microscopy for Astrobiology: Design and Deployment of AstroBioLab in Icy Analog Terrains},
+journal={EANA},
+author={Atakan Tepecik and Marc Urbach and Paul Ohlig and Ilya Digel},
+year={2025}
+},
+@conference{Atakan_Tepecik_207967035,
+title={Recovery of Aquatic Microorganisms Collected by a Membrane Filter Using Ultrasonically Enhanced Automated Reverse-Flushing System},
+journal={EANA 2025},
+author={Atakan Tepecik and Ilya Digel and Julia Ciecko and Judy Mouhanna},
+year={2025}
+},
+ @article{Audehm_2025, title={TRIPLE -Technologies for Rapid Ice Penetration and Subglacial Lake Exploration: Whitepaper by the TRIPLE Project within the German Space Agency Explorer Initiative at DLR}, url={http://dx.doi.org/10.22541/essoar.175371779.92742499/v2}, DOI={10.22541/essoar.175371779.92742499/v2}, publisher={Wiley}, author={Audehm, J. and Bachmayer, R. and Bande, M. and Bannasch, R. and Becker, F. and Bestmann, U. and Bhattacharya, D. and Böck, G. and Clemens, J. and Do, M. G. and Vera, J.-P.P. de and Digel, I. and Espe, C. and Feldmann, M. and Funke, O. and Francke, G. and Frischkorn, K. and Geissinger, K. and Göpel, D. and Günther, C. and Gregorek, D. and Grundmann, J. T. and Joppe, F. and Haberberger, N. and Heinen, D. and Helbing, K. and Heutelbeck, D. and Höck, P. and Höpfner, G. and Koch, T. and Koch, C. and Kowalski, J. and Krause, C. and Löser, J. and Panten, P. and Philipp-May, S. and Reuscher, T. and Rohr, H. and Schorbach, V. and Schöttler, F. and Tepecik, A. and Terschanski, B. and Vossiek, M. and Waldmann, C. and Ward, A. and Wiebusch, C. and Yakovlev, S. and Zierke, S.}, year={2025}, month=July }
+,
+ @article{Akimbekov_2025, title={Screening halotolerant bacteria for their potential as plant growth-promoting and coal-solubilizing agents}, volume={15}, ISSN={2045-2322}, url={http://dx.doi.org/10.1038/s41598-025-98005-z}, DOI={10.1038/s41598-025-98005-z}, number={1}, journal={Scientific Reports}, publisher={Springer Science and Business Media LLC}, author={Akimbekov, Nuraly and Digel, Ilya and Kamenov, Bekzat and Altynbay, Nazym and Tastambek, Kuanysh and Zha, Jian and Tepecik, Atakan and Sakhanova, Svetlana K.}, year={2025}, month=Apr }
+,
+@article{akimbekov2025overview,title={An Overview of Quantitative Capillary Refill Time: Measurement and Application in Clinical Practice},author={Akimbekov, Nuraly S and Digel, Ilya and Beeser, Judith and Tepecik, Atakan and Sakhanova, Svetlana K and Altynbay, Nazym P and Sherelkhan, Dinara K and Kamenov, Bekzat K and Nussipov, Damir A and Arystanbekuly, Birzhan and others},journal={Engineered Science},volume={34},pages={1437},year={2025},publisher={Engineered Science Publisher}}
+,
+ @article{Akimbekov_2024, title={Biotechnological potentials of surfactants in coal utilization: a review}, volume={31}, ISSN={1614-7499}, url={http://dx.doi.org/10.1007/s11356-024-34892-5}, DOI={10.1007/s11356-024-34892-5}, number={43}, journal={Environmental Science and Pollution Research}, publisher={Springer Science and Business Media LLC}, author={Akimbekov, Nuraly and Digel, Ilya and Zhubanova, Azhar and Tastambek, Kuanysh T. and Tepecik, Atakan and Sherelkhan, Dinara}, year={2024}, month=Sept, pages={55099–55118} }
+,
+@proceedings{https://doi.org/10.17185/duepublico/81475,  doi = {10.17185/DUEPUBLICO/81475},  url = {https://duepublico2.uni-due.de/receive/duepublico_mods_00081475},  author = {{YRA – Young Researchers Academy MedTech In NRW}},  keywords = {610},  language = {en},  title = {4th YRA MedTech Symposium 2024: February 1 / 2024 / FH Aachen},  journal = {YRA MedTech Symposium},  publisher = {DuEPublico: Duisburg-Essen Publications online, University of Duisburg-Essen, Germany},  year = {2024},  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}},
+@article{tepecik2024frozen,title={Frozen Frontiers: TRIPLE's AstroBioLab and the Quest for Extraterrestrial Life},author={Tepecik, Atakan and Digel, Ilya},journal={45th COSPAR Scientific Assembly. Held 13-21 July},volume={45},pages={482},year={2024}}
 
 <!-- _pages/publications.md -->
 
