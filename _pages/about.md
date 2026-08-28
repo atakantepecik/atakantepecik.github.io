@@ -28,7 +28,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I work as a scientific researcher at FH Aachen with a background in engineering and lab instrumentation, working as a group leader for AstroBioLab in [TRIPLE](https://triple-project.net/) project. AstroBioLab is a multimodal robust surface field instrument to detect biosignatures in subglacial water - a test platform for the kind of access mission that icy moons like Europa and Enceladus will eventually require. My work spans from mechanical design, wet-lab work, data analysis and polar field deployment.
+I work as a scientific researcher at FH Aachen with a background in engineering and lab instrumentation, working as a group leader for AstroBioLab in the[TRIPLE](https://triple-project.net/) project. AstroBioLab is a multimodal robust surface field instrument to detect biosignatures in subglacial water - a test platform for the kind of access mission that icy moons like Europa and Enceladus will eventually require. My work spans from mechanical design, wet-lab work, data analysis to polar field deployment.
 
 ### Life-detection instrumentation
 
